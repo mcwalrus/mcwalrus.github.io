@@ -1,0 +1,42 @@
+baseURL = "https://mcwalrus.github.io/"
+languageCode = "en"
+defaultContentLanguage = "en"
+title = "Max Collier"
+theme = "PaperMod"
+
+[params]
+  defaultTheme = "auto"
+  ShowReadingTime = true
+  ShowShareButtons = false
+  ShowCodeCopyButtons = true
+  ShowToc = true
+
+  [params.profileMode]
+    enabled = true
+    title = "Max Collier"
+    subtitle = "Software Engineer, mountain biker, kayaker, general nature enthusiast."
+    imageUrl = "avatar.jpg"
+    imageWidth = 140
+    imageHeight = 140
+    [[params.profileMode.buttons]]
+      name = "Posts"
+      url = "posts"
+    [[params.profileMode.buttons]]
+      name = "About"
+      url = "about"
+
+  [[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/mcwalrus"
+
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 10
+  [[menu.main]]
+    identifier = "posts"
+    name = "Posts"
+    url = "/posts/"
+    weight = 20
