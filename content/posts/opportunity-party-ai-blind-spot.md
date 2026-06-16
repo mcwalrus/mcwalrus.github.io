@@ -17,10 +17,13 @@ I'm a software engineer, I build things for a living, and I care about New
 Zealand getting good ideas in front of voters. TOP — sorry, *Opportunity*, they
 rebranded — is fighting to cross the 5% MMP threshold with policy that deserves
 to be read on its merits. So when I noticed their website is quietly invisible
-to the tools more and more people use to research politics, I went and checked.
-The concern turned out to be real, and the fixes are not hard.
+to the tools more and more people use to research politics, it bothered me
+enough to dig in. The concern turned out to be real — and, frustratingly, the
+fixes are cheap. This isn't a takedown; it's a heads-up from someone who'd like
+to see the party do well, written in the hope it reaches whoever runs their
+site.
 
-This post is in two halves. First, the problem and why it matters — no
+This post is in two halves. First, the concern and why it matters — no
 technical background needed. Then, for anyone who wants to reproduce it, the
 exact plumbing that's causing it and how to fix it.
 
@@ -192,7 +195,7 @@ And while they're in there: reconcile the two hostnames so the live policy is
 the one the party actually intends — not a deliberate "no entry" on one host and
 a legacy default on the other.
 
-## The point
+## The point — and an offer
 
 None of this is about chasing the AI hype. It's about a party with real ideas
 making sure those ideas are *findable* by the tools people now reach for first.
@@ -200,5 +203,12 @@ Exposing Opportunity's actual positions — current leader and all — is the id
 outcome for the party. The technology to do it is sitting right there. It just
 needs someone to open the door and take the policies out of the drawer.
 
-I'd love to see them do it. We could all do with more good ideas in the room,
-and fewer assistants insisting the last leader is still in charge.
+That's where I'd like to help. I'm not pitching anything and I'm not after
+anything — this is a cheap, high-value win for a party I'd like to see in
+Parliament, and I'm happy to walk whoever runs the website through both fixes,
+or just hand over the notes and get out of the way. If you're on the campaign or
+comms team, or you know someone who is, I'd genuinely appreciate an
+introduction — you can reach me via [GitHub](https://github.com/mcwalrus).
+
+We could all do with more good ideas reaching more people — and fewer assistants
+insisting the last leader is still in charge.
