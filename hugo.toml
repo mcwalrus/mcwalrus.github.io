@@ -24,6 +24,9 @@ theme = "PaperMod"
     [[params.profileMode.buttons]]
       name = "About"
       url = "about"
+    [[params.profileMode.buttons]]
+      name = "NZ"
+      url = "photos"
 
   [[params.socialIcons]]
     name = "github"
@@ -40,3 +43,8 @@ theme = "PaperMod"
     name = "Posts"
     url = "/posts/"
     weight = 20
+  [[menu.main]]
+    identifier = "photos"
+    name = "NZ"
+    url = "/photos/"
+    weight = 30
