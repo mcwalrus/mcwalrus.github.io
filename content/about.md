@@ -10,46 +10,38 @@ ShowReadingTime: false
 
 I'm **Max Collier**, a software engineer based in Melbourne, Australia.
 
-Originally I'm from Central Otago, New Zealand, where I spend most of my time
-outside with friends whenever I'm back. The situation at home is *generally*
-trying — I feel hopeful, but a full life with dignity seems to depend less
-on your ability to perform at work and more on property speculation and
-wealth inheritance than it should. There's a term for how it feels, borrowed
-from modern-slavery research: *debt bondage* — it shouldn't take a lifetime
-of work just to live a normal life. When Aotearoa learns to treat its future
-generations better, I'd happily move home.
+Originally I'm from Central Otago, New Zealand. Aotearoa has a long history of
+backing bold ideas, and I believe our next chapter depends on giving the next
+generation the room, education and resources to build something of their own.
 
-I spend a large chunk of my time learning across a breadth of technologies.
-Software now grows on trees, and it's up to us to pick the fruit that's newly
-available. AI has inverted the cost of R&D in engineering and beyond —
-adopting new skillsets, platforms, and token-efficient workflows is both an
-advantage and, I think, critical to staying competitive. Every technological
-revolution lays the foundations for the next, and I hope I can be a positive
-force for good in what is becoming a complicated and muddy picture.
+I am currently volunteering on the IT team at
+[The Opportunity Party](https://www.opportunity.org.nz/) as a small way to
+put my technical skills toward a cause I believe in - that everyone deserves
+a real chance to make their way in the world.
 
-My skills sit at the Venn diagram of applied Data Science, web-based
-Software Engineering, DevOps, and AI. Across my career I've typically worked
-across all of these, with remote sensor data and geospatial analysis as
-recurring threads. My time at TracPlus, Starboard, and most recently Entain
-has given me foundational knowledge in roadmap strategy, product design, and
-platform architecture.
+I spend a large chunk of my time learning across a breadth of new technologies. 
+The economic cost of R&D has fundamentally inverted since the advent of AI. 
+What used to take team months now takes focused builders days. I focus on
+experimental, exploratory work and techniques of developing with AI.
 
-Primarily, I believe it's people, and the good decisions they make, who make
-a business. AI is now our best tool for making informed decisions of our
-own — and that's where I see the opportunity.
+I believe most people are still unaware of the true economics and useful 
+stratigies for how to adopt AI tooling best (including myself!). Every 
+technological revolution lays the foundations for the next, and I want to
+be a positive force in shaping what comes next.
 
-Politically, I sit fairly centre-right with an emphasis on socially minded
-policy. [The Opportunity Party](https://www.opportunity.org.nz/) is the one
-that best represents me on the spectrum. I strongly value the unique
-landscape we hold as a country and believe it should be better represented
-as an asset on a national balance sheet. As a young, aspirational tech
-professional, I'd like to see better incentives and national support for
-young people trying to make their way in the world.
+My skills sit at the intersection of applied Data Science, DevOps, Software
+Engineering and AI development. Across my career at TracPlus, Starboard, and
+most recently Entain, I've typically worked across all of these domains, with
+remote sensor data and geospatial analysis as recurring themes. My current focus 
+is on agentic development — building systems where AI agents can experiment, 
+iterate, and ship working software alongside humans.
 
-You'll also find a few [photos](/photos/) of what I get up to outside of
-code.
+Primarily in our world, I believe we rely on good people, and the decisions they
+make to affect positive change in society or business. AI is now our best tool for making informed
+decisions of our own — and that's where I see the opportunity: more good
+decisions, made faster, by more people.
 
-Please reach out through any of the channels below — or for a beer.
+Please reach out through any of the channels below.
 
 - Email: collierwm01@gmail.com
 - WhatsApp: +61 435-026-753
