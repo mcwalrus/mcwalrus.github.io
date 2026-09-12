@@ -4,3 +4,4 @@ resources/_gen/
 llm/
 .pi/
 drafts/
+.obsidian/
