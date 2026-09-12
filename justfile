@@ -1,6 +1,10 @@
 default:
     @just --list
 
+# Initialise git submodules (e.g. themes/PaperMod)
+init:
+    git submodule update --init --recursive
+
 # Run local dev server with drafts
 serve:
     hugo server -D
