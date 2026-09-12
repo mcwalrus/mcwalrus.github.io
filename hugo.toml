@@ -32,6 +32,10 @@ theme = "PaperMod"
     name = "github"
     url = "https://github.com/mcwalrus"
 
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
 [menu]
   [[menu.main]]
     identifier = "about"

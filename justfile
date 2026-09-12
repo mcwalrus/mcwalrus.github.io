@@ -5,9 +5,9 @@ default:
 init:
     git submodule update --init --recursive
 
-# Run local dev server with drafts
+# Run local dev server with drafts (full rebuilds on change for layout/template edits)
 serve:
-    hugo server -D
+    hugo server -D --disableFastRender
 
 # Build the site
 build:
