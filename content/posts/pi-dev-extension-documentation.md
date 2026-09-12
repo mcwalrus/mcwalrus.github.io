@@ -2,6 +2,7 @@
 date = '2026-09-12T17:04:02+10:00'
 draft = false
 title = 'pi.dev self-help on extensions'
+categories = ['harness', 'extensions']
 +++
 
 Notably, when you install a [pi.dev](https://pi.dev/) extension, the harness never actually reads or tries to present the README.md documentation associated with the extensions installed. Often, the new ecosystem of harness extensions coming forward are not just only extensible, but may also require some aspect of configuration up-front.

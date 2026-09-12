@@ -2,7 +2,7 @@
 date = '2026-09-12T14:21:35+10:00'
 draft = false
 title = 'ECC Research Plugin'
-categories = ['AI-harness', 'extensions-review']
+categories = ['harness', 'extensions']
 +++
 
 https://github.com/affaan-m/ECC
