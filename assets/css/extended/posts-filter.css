@@ -1,0 +1,29 @@
+.posts-filter {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 0.6em;
+    margin: var(--content-gap) 0;
+}
+
+.posts-filter-label {
+    font-weight: 600;
+    color: var(--secondary);
+}
+
+.posts-filter-list {
+    margin-top: 0;
+}
+
+.posts-back {
+    margin: calc(var(--content-gap) / 2) 0 var(--content-gap);
+    font-size: 0.95em;
+}
+
+.posts-back a {
+    color: var(--secondary);
+}
+
+.posts-back a:hover {
+    color: var(--primary);
+}
