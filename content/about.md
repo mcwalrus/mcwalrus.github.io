@@ -8,7 +8,11 @@ ShowReadingTime: false
 
 ![Max Collier](/avatar.jpg)
 
-I'm **Max Collier**, a software engineer based in Melbourne, Australia.
+{{< hero >}}
+
+I'm **Max Collier**, a software engineer based in Melbourne, Australia. 👋
+
+{{< /hero >}}
 
 Originally I'm from Central Otago, New Zealand. Aotearoa has a long history of
 backing bold ideas, and I believe our next chapter depends on giving the next

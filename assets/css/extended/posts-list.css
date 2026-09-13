@@ -34,3 +34,23 @@
     text-justify: inter-word;
     hyphens: auto;
 }
+
+/* Hero intro block (rendered by the `hero` shortcode). Centre the line
+   and lift it visually so it reads as a greeting rather than body copy.
+   Higher selector specificity wins over the justified `p` rule above. */
+.post-content .hero {
+    text-align: center;
+    font-size: 1.2em;
+    line-height: 1.5;
+    margin: 2.475em 0.5em 2.25em;
+    color: var(--secondary);
+}
+
+.post-content .hero p {
+    text-align: center;
+    margin: 0;
+}
+
+.post-content .hero strong {
+    color: var(--primary);
+}
