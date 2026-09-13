@@ -14,10 +14,10 @@ Originally I'm from Central Otago, New Zealand. Aotearoa has a long history of
 backing bold ideas, and I believe our next chapter depends on giving the next
 generation the room, education and resources to build something of their own.
 
-I am currently a volunteer on the IT / web-team at [The Opportunity Party](https://www.opportunity.org.nz/)
+I am currently a volunteer on the web-team at [The Opportunity Party](https://www.opportunity.org.nz/)
 as a small way to put my technical skills toward a cause I believe in - that
-everyone deserves a real chance to make their way in the world. Feel free to
-learn about the party by reading up on the [Party Policies](https://www.opportunity.org.nz/policy).
+everyone deserves a real chance to make their way in the world. To learn more
+about the Party, please to look to read up on the [Party Policies](https://www.opportunity.org.nz/policy) for what we stand for.
 
 I spend a large chunk of my time learning across a breadth of new technologies.
 The economic cost of R&D has _fundamentally inverted_ since the advent of AI.

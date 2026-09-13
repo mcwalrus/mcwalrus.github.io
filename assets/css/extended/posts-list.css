@@ -1,0 +1,36 @@
+/* Posts listing: blend entries into the page background and justify body text.
+   This makes /posts/ (and category/tag listings) visually consistent with the
+   rest of the site (about, single posts, photos), where content sits directly
+   on --theme without a contrasting card. */
+
+/* Strip the white card from each entry so the listing reads as flowing
+   content rather than a stack of cards. A bottom border separates entries
+   without re-introducing a contrasting surface. */
+.post-entry {
+    background: transparent;
+    border: 0;
+    border-bottom: 1px solid var(--border);
+    border-radius: 0;
+    padding: var(--gap) 0;
+}
+
+.post-entry:last-of-type {
+    border-bottom: 0;
+}
+
+/* Suppress the lift-on-hover transform — without a card there is nothing to
+   lift, and a vertical jump on the last line of text looks broken. */
+.post-entry:hover,
+.post-entry:focus-within {
+    transform: none;
+    border-color: var(--border);
+}
+
+/* Spread / justify body text on prose pages (about, single posts) and on
+   the post-entry summaries in the listing. */
+.post-content p,
+.entry-content p {
+    text-align: justify;
+    text-justify: inter-word;
+    hyphens: auto;
+}
