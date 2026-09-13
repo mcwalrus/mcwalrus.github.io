@@ -1,0 +1,8 @@
+/* Narrow body / shell horizontal alignment.
+   PaperMod defaults: --main-width: 720px, --gap: 24px -> 768px total .main.
+   Override to ~640px content + 32px gap (~704px total) so paragraphs don't span
+   the full viewport on wide screens. */
+:root {
+    --main-width: 640px;
+    --gap: 32px;
+}
